@@ -1,0 +1,4 @@
+Compiler options:
+-----------------
+--target es5
+--removeComments
